@@ -1,0 +1,8 @@
+name: Farmer
+version: '1.0-ALPHA'
+main: com.recepemre.farmer.Main
+api-version: '1.21'
+prefix: [ FARMER ]
+authors: [ AzmeaL ]
+description: An open-sourced auto-pickup/harvest-store plugin for Minecraft servers.
+website: https://www.emreada.com/
